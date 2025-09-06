@@ -22,7 +22,7 @@ The program generates multiplication tables for a given number and also prints t
 ---
 
 ## 📸 Screenshots
-| Game Overview |
+| Table Generator |
 |---------------|
 | ![Screenshot](./2.png) |
 
